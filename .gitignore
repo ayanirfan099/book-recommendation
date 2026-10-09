@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+dist/
+bin/
+obj/
+.env
+.env.*
+!.env.example
