@@ -1,4 +1,4 @@
-# Book Recommendation System
+# Book Catalog Filter
 
 A small, reproducible Python project that filters books by genre. It includes a command-line tool and a self-contained notebook that works offline or in Colab. Recommendations preserve CSV order; this is not a trained recommendation model.
 
